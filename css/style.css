@@ -459,6 +459,9 @@ body {
     background-color: var(--main-text-color);
 }
 /* FOOTER */
+.footer {
+    border-top: 1px solid #eee;
+}
 .footer-top {
     padding-top: 8rem;
     padding-bottom: 4rem;
